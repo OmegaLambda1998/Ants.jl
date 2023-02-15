@@ -1,6 +1,6 @@
-using REPLACE_PKG
+using Ants
 using Test
 
-@testset "REPLACE_PKG.jl" begin
+@testset "Ants.jl" begin
     # Write your tests here.
 end
